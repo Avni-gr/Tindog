@@ -1,6 +1,6 @@
-TinDog Starting Files
-# PhotoMart- a platform dedicated to the art and passion of photography. 
-PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and celebrate the beauty of photography. Whether you're an aspiring photographer looking for inspiration or a seasoned pro wanting to share your work, this platform provides a space to appreciate and explore the world through the lens.
+
+# TinDog- Connecting Paws and Hearts 🐾❤️
+The pawfect platform for dog owners to connect and arrange playdates for their furry friends! Tindog is a simple yet charming web application designed to facilitate social connections among dog enthusiasts in your area.
 
 ## Overview
 
@@ -18,14 +18,13 @@ PhotoMart is a project crafted with HTML, CSS, and JavaScript to showcase and ce
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- JavaScript
+- HTML
+- CSS
+- Bootstrap
 
 ## Author
 
 - Linkedin - [Avni Gour](https://www.linkedin.com/in/avni-gour-aa2375201/)
-- Frontend Mentor - [@Avni-gr](https://www.frontendmentor.io/profile/Avni-gr)
 
 
 
