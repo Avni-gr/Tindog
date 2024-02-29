@@ -12,7 +12,6 @@ The pawfect platform for dog owners to connect and arrange playdates for their f
 ![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201352.png?raw=true)
 ![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201405.png?raw=true)
 ![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201420.png?raw=true)
-![](https://github.com/Avni-gr/Tindog/blob/main/1709218475039.jpg?raw=true)
 
 
 ### Links
