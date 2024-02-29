@@ -12,7 +12,7 @@ The pawfect platform for dog owners to connect and arrange playdates for their f
 
 ### Links
 
-- Live Site URL: (https://avni-gr.github.io/01test-website/)
+- Live Site URL: (https://avni-gr.github.io/Tindog/)
 
 ## My process
 
