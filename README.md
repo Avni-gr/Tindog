@@ -6,9 +6,12 @@ The pawfect platform for dog owners to connect and arrange playdates for their f
 
 ### Screenshot
 
-![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201633.png?raw=true)
-![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201655.png?raw=true)
-![](https://github.com/Avni-gr/01test-website/blob/master/Screenshot%202024-02-23%20201723.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201100.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201132.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201155.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201352.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201405.png?raw=true)
+![](https://github.com/Avni-gr/Tindog/blob/main/Screenshot%202024-02-29%20201420.png?raw=true)
 
 ### Links
 
